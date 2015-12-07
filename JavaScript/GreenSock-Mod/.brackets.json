@@ -1,0 +1,9 @@
+{
+    "jscodehints.detectedExclusions": [
+        "/Volumes/Projects/Fall2015/Producing iMedia/Greensock JS Final/EaselJS-master/src/easeljs/utils/SpriteSheetUtils.js",
+        "/Volumes/Projects/Fall2015/Producing iMedia/Greensock JS Final/EaselJS-master/src/easeljs/utils/UID.js",
+        "/Volumes/Projects/Fall2015/Producing iMedia/Greensock JS Final/EaselJS-master/src/easeljs/ui/Touch.js",
+        "/Volumes/Projects/Fall2015/Producing iMedia/jsfinal/EaselJS-master/tests/lib/jasmine-2.0.2/boot.js",
+        "/Volumes/Projects/Fall2015/Producing iMedia/jsfinal/EaselJS-master/tests/lib/jasmine-2.0.2/jasmine-html.js"
+    ]
+}
